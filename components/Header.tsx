@@ -4,8 +4,7 @@ const Header = () => {
   return (
     <Box
       as="section"
-      //bg="#6B46C1"
-      bg="#000000"
+      bg="#6B46C1"
       color="#F7FAFC"
       pt="90px"
       pb="198px"
